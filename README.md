@@ -23,3 +23,11 @@ Afterwards, you run development environment with `pnpm dev` and build for produc
 ## Technologies
 
 ## Open points
+
+## Event repositories
+
+ Name  | URL | GitHub repository | | Parameters |
+| ------------- | ------------- |
+| Prague Blockchain Week  | https://explore.prgblockweek.com/23  | https://github.com/prgblockweek | name/ shortname/ types/ status/ org/ dri/ poc /date / days/ times/ venueName/ venueUrl/ venueAddress/ languages/ attendees/ chains/ tags/ description/ *registration*/ type/ price/ link/ status *links* /web /twitter /telegram
+
+| Content Cell  | Content Cell  |  |  |
